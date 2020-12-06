@@ -1,0 +1,86 @@
+Column,Name,Age,Nationality,Student,QuestionText
+Respondent,Tofael483,23,USA,Y,Randomized respondent ID number (not in order of survey response time)
+MainBranch,Tofael484,24,UK,N,"Which of the following options best describes you today? Here, by ""developer"" we mean ""someone who writes code."""
+Hobbyist,Tofael485,25,Germany,NaN,Do you code as a hobby?
+OpenSourcer,Tofael486,26,China,NaN,How often do you contribute to open source?
+OpenSource,Tofael487,27,France,N,How do you feel about the quality of open source software (OSS)?
+Employment,Tofael488,28,Bangladesh,N,Which of the following best describes your current employment status?
+Country,Tofael489,29,India,Y,In which country do you currently reside?
+Student,Tofael490,48,Pakistan,N,"Are you currently enrolled in a formal, degree-granting college or university program?"
+EdLevel,Tofael491,49,Morocco,Y,Which of the following best describes the highest level of formal education that you’ve completed?
+UndergradMajor,Tofael492,50,Saufdi Arabia,N,What was your main or most important field of study?
+EduOther,Tofael493,51,Canada,NaN,Which of the following types of non-degree education have you used or participated in? Please select all that apply.
+OrgSize,Tofael494,52,USA,Y,Approximately how many people are employed by the company or organization you work for?
+DevType,Tofael495,53,UK,Y,Which of the following describe you? Please select all that apply.
+YearsCode,Tofael496,54,Germany,Y,"Including any education, how many years have you been coding?"
+Age1stCode,Tofael497,48,China,N,"At what age did you write your first line of code or program? (E.g., webpage, Hello World, Scratch project)"
+YearsCodePro,Tofael498,49,France,Y,How many years have you coded professionally (as a part of your work)?
+CareerSat,Tofael499,50,Bangladesh,N,"Overall, how satisfied are you with your career thus far?"
+JobSat,Tofael500,51,India,N,"How satisfied are you with your current job? (If you work multiple jobs, answer for the one you spend the most hours on.)"
+MgrIdiot,Tofael501,52,Pakistan,NaN,How confident are you that your manager knows what they’re doing?
+MgrMoney,Tofael502,53,USA,NaN,Do you believe that you need to be a manager to make more money?
+MgrWant,Tofael503,54,UK,N,Do you want to become a manager yourself in the future?
+JobSeek,Tofael504,44,Germany,Y,Which of the following best describes your current job-seeking status?
+LastHireDate,Tofael505,45,China,N,When was the last time that you took a job with a new employer?
+LastInt,Tofael506,46,France,Y,"In your most recent successful job interview (resulting in a job offer), you were asked to... (check all that apply)"
+FizzBuzz,Tofael507,47,Bangladesh,N,Have you ever been asked to solve FizzBuzz in an interview?
+JobFactors,Tofael508,48,India,N,"Imagine that you are deciding between two job offers with the same compensation, benefits, and location. Of the following factors, which 3 are MOST important to you?"
+ResumeUpdate,Tofael509,49,Pakistan,Y,"Think back to the last time you updated your resumé, CV, or an online profile on a job site. What is the PRIMARY reason that you did so?"
+CurrencySymbol,Tofael510,50,Morocco,Y,"Which currency do you use day-to-day? If your answer is complicated, please pick the one you're most comfortable estimating in."
+CurrencyDesc,Tofael511,51,Saufdi Arabia,Y,"Which currency do you use day-to-day? If your answer is complicated, please pick the one you're most comfortable estimating in."
+CompTotal,Tofael512,52,Canada,N,"What is your current total compensation (salary, bonuses, and perks, before taxes and deductions), in `CurrencySymbol`? Please enter a whole number in the box below, without any punctuation. If you are paid hourly, please estimate an equivalent weekly, monthly, or yearly salary. If you prefer not to answer, please leave the box empty."
+CompFreq,Tofael513,53,USA,Y,"Is that compensation weekly, monthly, or yearly?"
+ConvertedComp,Tofael514,54,UK,NaN,"Salary converted to annual USD salaries using the exchange rate on 2019-02-01, assuming 12 working months and 50 working weeks."
+WorkWeekHrs,Tofael515,55,Germany,N,"On average, how many hours per week do you work?"
+WorkPlan,Tofael516,56,China,N,How structured or planned is your work?
+WorkChallenge,Tofael517,57,France,N,"Of these options, what are your greatest challenges to productivity as a developer? Select up to 3:"
+WorkRemote,Tofael518,58,Bangladesh,N,How often do you work remotely?
+WorkLoc,Tofael519,59,India,Y,Where would you prefer to work?
+ImpSyn,Tofael520,30,Pakistan,N,"For the specific work you do, and the years of experience you have, how do you rate your own level of competence?"
+CodeRev,Tofael521,31,USA,Y,Do you review code as part of your work?
+CodeRevHrs,Tofael522,32,UK,N,"On average, how many hours per week do you spend on code review?"
+UnitTests,Tofael523,33,Germany,NaN,Does your company regularly employ unit tests in the development of their products?
+PurchaseHow,Tofael524,34,China,NaN,"How does your company make decisions about purchasing new technology (cloud, AI, IoT, databases)?"
+PurchaseWhat,Tofael525,35,France,Y,"What level of influence do you, personally, have over new technology purchases at your organization?"
+LanguageWorkedWith,Tofael526,36,Bangladesh,Y,"Which of the following programming, scripting, and markup languages have you done extensive development work in over the past year, and which do you want to work in over the next year?  (If you both worked with the language and want to continue to do so, please check both boxes in that row.)"
+LanguageDesireNextYear,Tofael527,37,India,N,"Which of the following programming, scripting, and markup languages have you done extensive development work in over the past year, and which do you want to work in over the next year?  (If you both worked with the language and want to continue to do so, please check both boxes in that row.)"
+DatabaseWorkedWith,Tofael528,38,Pakistan,Y,"Which of the following database environments have you done extensive development work in over the past year, and which do you want to work in over the next year?   (If you both worked with the database and want to continue to do so, please check both boxes in that row.)"
+DatabaseDesireNextYear,Tofael529,39,Morocco,N,"Which of the following database environments have you done extensive development work in over the past year, and which do you want to work in over the next year?   (If you both worked with the database and want to continue to do so, please check both boxes in that row.)"
+PlatformWorkedWith,Tofael530,40,Saufdi Arabia,N,"Which of the following platforms have you done extensive development work for over the past year?   (If you both developed for the platform and want to continue to do so, please check both boxes in that row.)"
+PlatformDesireNextYear,Tofael531,41,Canada,N,"Which of the following platforms have you done extensive development work for over the past year?   (If you both developed for the platform and want to continue to do so, please check both boxes in that row.)"
+WebFrameWorkedWith,Tofael532,42,USA,N,"Which of the following web frameworks have you done extensive development work in over the past year, and which do you want to work in over the next year? (If you both worked with the framework and want to continue to do so, please check both boxes in that row.)"
+WebFrameDesireNextYear,Tofael533,43,UK,N,"Which of the following web frameworks have you done extensive development work in over the past year, and which do you want to work in over the next year? (If you both worked with the framework and want to continue to do so, please check both boxes in that row.)"
+MiscTechWorkedWith,Tofael534,74,Germany,Y,"Which of the following other frameworks, libraries, and tools have you done extensive development work in over the past year, and which do you want to work in over the next year? (If you both worked with the technology and want to continue to do so, please check both boxes in that row.)"
+MiscTechDesireNextYear,Tofael535,75,China,N,"Which of the following other frameworks, libraries, and tools have you done extensive development work in over the past year, and which do you want to work in over the next year? (If you both worked with the technology and want to continue to do so, please check both boxes in that row.)"
+DevEnviron,Tofael536,76,France,Y,Which development environment(s) do you use regularly?  Please check all that apply.
+OpSys,Tofael537,77,Bangladesh,N,What is the primary operating system in which you work?
+Containers,Tofael538,78,India,N,"How do you use containers (Docker, Open Container Initiative (OCI), etc.)?"
+BlockchainOrg,Tofael539,79,Pakistan,Y,How is your organization thinking about or implementing blockchain technology?
+BlockchainIs,Tofael540,80,USA,Y,Blockchain / cryptocurrency technology is primarily:
+BetterLife,Tofael541,34,UK,Y,Do you think people born today will have a better life than their parents?
+ITperson,Tofael542,35,Germany,N,"Are you the ""IT support person"" for your family?"
+OffOn,Tofael543,36,China,Y,Have you tried turning it off and on again?
+SocialMedia,Tofael544,37,France,NaN,What social media site do you use the most?
+Extraversion,Tofael545,56,Bangladesh,NaN,Do you prefer online chat or IRL conversations?
+ScreenName,Tofael546,65,India,NaN,What do you call it?
+SOVisit1st,Tofael547,34,Pakistan,N,"To the best of your memory, when did you first visit Stack Overflow?"
+SOVisitFreq,Tofael548,88,Morocco,N,How frequently would you say you visit Stack Overflow?
+SOVisitTo,Tofael549,89,Saufdi Arabia,Y,I visit Stack Overflow to... (check all that apply)
+SOFindAnswer,Tofael550,90,Canada,N,"On average, how many times a week do you find (and use) an answer on Stack Overflow?"
+SOTimeSaved,Tofael551,91,USA,Y,"Think back to the last time you solved a coding problem using Stack Overflow, as well as the last time you solved a problem using a different resource. Which was faster?"
+SOHowMuchTime,Tofael552,92,UK,N,"About how much time did you save? If you're not sure, please use your best estimate."
+SOAccount,Tofael553,93,Germany,N,Do you have a Stack Overflow account?
+SOPartFreq,Tofael554,94,China,Y,"How frequently would you say you participate in Q&A on Stack Overflow? By participate we mean ask, answer, vote for, or comment on questions."
+SOJobs,Tofael555,95,France,Y,Have you ever used or visited Stack Overflow Jobs?
+EntTeams,Tofael556,96,Bangladesh,Y,Have you ever used Stack Overflow for Enterprise or Stack Overflow for Teams?
+SOComm,Tofael557,97,India,N,Do you consider yourself a member of the Stack Overflow community?
+WelcomeChange,Tofael558,98,Pakistan,Y,"Compared to last year, how welcome do you feel on Stack Overflow?"
+SONewContent,Tofael559,48,USA,N,Would you like to see any of the following on Stack Overflow? Check all that apply.
+Age,Tofael560,49,UK,N,"What is your age (in years)? If you prefer not to answer, you may leave this question blank."
+Gender,Tofael561,50,Germany,N,"Which of the following do you currently identify as? Please select all that apply. If you prefer not to answer, you may leave this question blank."
+Trans,Tofael562,51,China,N,Do you identify as transgender?
+Sexuality,Tofael563,52,France,NaN,"Which of the following do you currently identify as? Please select all that apply. If you prefer not to answer, you may leave this question blank."
+Ethnicity,Tofael564,53,Bangladesh,NaN,"Which of the following do you identify as? Please check all that apply. If you prefer not to answer, you may leave this question blank."
+Dependents,Tofael565,54,India,NaN,"Do you have any dependents (e.g., children, elders, or others) that you care for?"
+SurveyLength,Tofael566,55,Pakistan,Y,How do you feel about the length of the survey this year?
+SurveyEase,Tofael567,56,Morocco,N,How easy or difficult was this survey to complete?
